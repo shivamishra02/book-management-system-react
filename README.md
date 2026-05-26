@@ -1,8 +1,65 @@
-# React + Vite
+# Book Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Book Management System with full CRUD functionality using MockAPI.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Add Books
+* Update Books
+* Delete Books
+* Search Books
+* Filter by Genre
+* API Integration using MockAPI
+* Responsive UI
+
+## Tech Stack
+
+* React.js
+* Vite
+* Axios
+* CSS
+* MockAPI
+
+## Installation & Setup
+
+### Clone Repository
+
+```bash
+git clone https://github.com/shivamishra02/book-management-system-react.git
+```
+
+### Navigate to Project Folder
+
+```bash
+cd book-management-system-react
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Open in Browser
+
+```bash
+http://localhost:5173
+```
+
+## API Used
+
+MockAPI
+
+## Live Demo
+
+https://book-management-system-react-nine.vercel.app/
+
+## Author
+
+Shiva Mishra
